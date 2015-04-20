@@ -4,15 +4,15 @@
         <body>
             <trans-unit id="1">
                 <source>Name</source>
-                <target>Name</target>
+                <target>Nom</target>
             </trans-unit>
             <trans-unit id="2">
                 <source>Pick.image</source>
-                <target>Pick an image</target>
+                <target>Sélectionnez une image</target>
             </trans-unit>
             <trans-unit id="3">
                 <source>Add.image.to.avatar</source>
-                <target>Add an image to your avatar</target>
+                <target>Ajouter une image à votre avatar</target>
             </trans-unit>
         </body>
     </file>
